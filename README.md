@@ -3,12 +3,12 @@
 ![PWA Weather App using React JS](https://user-images.githubusercontent.com/71302066/177005735-619edae8-6740-45fa-bb70-19b8a74e7d5a.png "PWA Weather App using React JS")
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ankit-Sharma1011 "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Ankit-Sharma1011/Storm-watch-app)](https://github.com/Ankit-Sharma1011/Storm-watch-app/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/Storm-watch-app/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/Storm-watch-app)](https://github.com/Ankit-Sharma1011/Storm-watch-app/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/Storm-watch-app/main)](https://github.com/Ankit-Sharma1011/Storm-watch-app/commits "Github commits")
+[![GitHub license](https://img.shields.io/github/license/Ankit-Sharma1011/Storm-watch-app)](https://github.com/Ankit-Sharma1011/pwa-weather-app/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/pwa-weather-app/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/pwa-weather-app)](https://github.com/Ankit-Sharma1011/pwa-weather-app/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/pwa-weather-app/main)](https://github.com/Ankit-Sharma1011/pwa-weather-app/commits "Github commits")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c3d78e12-4a59-4a95-a90f-7a2b673cffc4/deploy-status)](https://react-app-pwa-weather.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/Ankit-Sharma1011/Storm-watch-app)](https://github.com/Ankit-Sharma1011/Storm-watch-app/issues "GitHub issues")
+[![GitHub issues](https://img.shields.io/github/issues/Ankit-Sharma1011/pwa-weather-app)](https://github.com/Ankit-Sharma1011/pwa-weather-app/issues "GitHub issues")
 
 ## :warning: Before you start
 
@@ -50,7 +50,7 @@ REACT_APP_OPENWEATHER_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXX
 
 ![Mobile Responsive](https://user-images.githubusercontent.com/71302066/177006299-5e0b9d80-75d6-44c7-be11-f00016bbbe47.png "Mobile Responsive")
 
-![PWA Support](https://user-images.githubusercontent.com/71302066/177006363-6ed1330d-fd7f-4c28-947b-538a001f8e0a.png "SWA Support")
+![PWA Support](https://user-images.githubusercontent.com/71302066/177006363-6ed1330d-fd7f-4c28-947b-538a001f8e0a.png "PWA Support")
 
 ![Lighthouse pwa check passed](https://user-images.githubusercontent.com/71302066/177006407-72df3769-443d-4956-a4b5-16c3d60158ae.png "Lighthouse pwa check passed")
 
