@@ -7,7 +7,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/Storm-watch-app/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/Storm-watch-app)](https://github.com/Ankit-Sharma1011/Storm-watch-app/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/Storm-watch-app/main)](https://github.com/Ankit-Sharma1011/Storm-watch-app/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c3d78e12-4a59-4a95-a90f-7a2b673cffc4/deploy-status)](https://storm-watch-app.netlify.app// "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3d78e12-4a59-4a95-a90f-7a2b673cffc4/deploy-status)](https://storm-watch-app.netlify.app/ "Netlify Status")
 [![GitHub issues](https://img.shields.io/github/issues/Ankit-Sharma1011/Storm-watch-app)](https://github.com/Ankit-Sharma1011/Storm-watch-app/issues "GitHub issues")
 
 ## :warning: Before you start
